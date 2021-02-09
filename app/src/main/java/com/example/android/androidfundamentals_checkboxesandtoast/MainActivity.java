@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
         checkBox3 = findViewById(R.id.checkBox3);
         checkBox4 = findViewById(R.id.checkBox4);
         checkBox5 = findViewById(R.id.checkBox5);
-
     }
 
     public void showToast(View view) {
@@ -54,6 +53,5 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, message + ".", Toast.LENGTH_SHORT).show();
         message = "";
-
     }
 }
