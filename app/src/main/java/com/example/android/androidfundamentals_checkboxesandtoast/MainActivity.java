@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
             message = message + getString(R.string.oreo_cookie_crumbles) + " ";
         }
 
-        Toast.makeText(this, message + ".", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
         message = "";
     }
 }
