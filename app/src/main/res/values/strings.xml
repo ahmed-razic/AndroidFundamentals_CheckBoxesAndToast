@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">AndroidFundamentals_CheckBoxesAndToast</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="oreo_cookie_crumbles">Oreo cookie crumbles</string>
+    <string name="cherries">Cherries</string>
+    <string name="crushed_nuts">Crushed nuts</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="chocolate_syrup">Chocolate syrup</string>
+
+
+    <string-array name="desserts">
+        <item>Chocolate syrup</item>
+        <item>Sprinkles</item>
+        <item>Crushed nuts</item>
+        <item>Cherries</item>
+        <item>Oreo cookie crumbles</item>
+    </string-array>
 </resources>
